@@ -1,6 +1,8 @@
 # BloodBankApp-MySQL
 A Blood Bank application developed with MySql as backend and Window Builder in Java 8 for the UI
 
+Please watch the working demo of the project in the commits
+
 **Backend Schema**
 
 
