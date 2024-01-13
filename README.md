@@ -2,6 +2,8 @@
 A Blood Bank application developed with MySql as backend and Window Builder in Java 8 for the UI
 
 **Backend Schema**
+
+
 OVERVIEW
 The application created is a Blood Bank application that allows users to register themselves as donors, perform various CRUD(Insert, Update, Delete, View) operations and store data into the database. Also there exists functionality to add blood donation booking slot for future and view already existing donation records from the database. Information for various bloodbanks with their locations are also fetched from the database.
 
@@ -20,7 +22,11 @@ Tables used:
 3) donor - -< - donation
 4) bloodType - -< - donor
 
+
+
 **Presentation Layer**
+
+
 Overview The Presentation layer of the Blood bank application has been created as a Graphic User Interface (GUI) built using Window builder(Java Swing) in Eclipse and uses Java 1.8.
 The application interface has 4 different UI screens for accepting, modifying, searching and displaying data to and from MySQL database created.
 The entire UI is created by coding in java. Three external jar files required as part of the execution:
